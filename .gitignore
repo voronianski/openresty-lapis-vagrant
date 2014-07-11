@@ -1,0 +1,7 @@
+.vagrant/
+*.swp
+ngx*
+nginx.conf.compiled
+app/
+*.log
+.DS_Store
