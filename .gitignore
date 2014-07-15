@@ -2,6 +2,11 @@
 *.swp
 ngx*
 nginx.conf.compiled
-app/
+logs/
+run/
+client_temp/
+proxy_temp/
+uwsgi_temp/
+scgi_temp/
 *.log
 .DS_Store
