@@ -21,4 +21,4 @@ Template for starting development with [Lapis](http://leafo.net/lapis) and [Open
 
 ===
 
-MIT Licensed
+**MIT Licensed**
